@@ -10,7 +10,7 @@ August 21st, 2023.
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. I will push code to GitHub every day so that anyone can see my progress.
 3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on freecodecamp everyday for 1 hour. 
+5. I will work on The Odin Project everyday for 1 hour. 
 
 
 ## Ideas to make this challenge more effective
